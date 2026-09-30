@@ -12,7 +12,7 @@
     --background: #0c2444;
     --grid: rgba(255, 255, 255, 0.06);
     --grid-strong: rgba(255, 255, 255, 0.15);
-    --text: #e8f1ff;
+    --text: #c0c8d4;
     --soft-text: #8195af;
     --accent: #be9c29;
     --panel: rgba(255, 255, 255, 0.04);
@@ -81,7 +81,7 @@ a {
 }
 
 p {
-    max-width: 65ch;
+    max-width: 80ch;
 }
 
 .index {
@@ -90,7 +90,7 @@ p {
   padding: 0;
   display: grid;
   gap: 12px;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
 .index a {
@@ -170,7 +170,7 @@ img {
 .project-cards {
   display: grid;
   gap: 20px;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
 }
 
 .project-card {
