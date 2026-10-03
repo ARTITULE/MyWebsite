@@ -1,5 +1,7 @@
 # ARTITULE's Personal Website
 
+![image](Assets/README_Banner.png)
+
 This is my personal website, inspired by big sheets of blue blueprint paper, built with HTML, CSS and JavaScript. You can visit the website by clicking the link in the About section or by [clicking here](https://artitule.github.io/MyWebsite/).
 
 ## Why did i make this?
