@@ -1,6 +1,6 @@
 # ARTITULE's Personal Website
 
-This is my personal website, inspired by big sheets of blue blueprint paper, built with HTML, CSS and JavaScript.
+This is my personal website, inspired by big sheets of blue blueprint paper, built with HTML, CSS and JavaScript. You can visit the website by clicking the link in the About section or by [clicking here](https://artitule.github.io/MyWebsite/).
 
 ## Why did i make this?
 
@@ -30,6 +30,24 @@ I almost never did any web development besides some example tutorials so i wante
     > Do you want to contact me?
 
 ## How to host locally
+
+1. Clone the repo:
+
+``` bash
+git clone https://github.com/ARTITULE/MyWebsite.git
+```
+
+2. Navigate into the repo folder:
+
+``` bash
+cd MyWebsite/
+```
+
+3. Open index.html:
+
+``` bash
+open index.html
+```
 
 ## AI Use
 
